@@ -1,2 +1,2 @@
 # SagaActor
-An ctor model based Saga Coordinator implementation.
+The actor model based Saga Coordinator implementation.
